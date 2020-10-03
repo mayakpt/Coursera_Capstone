@@ -1,2 +1,3 @@
-# Coursera Capstone
-This is a Capstone Project for the IBM Data Science Specialization.
+## Coursera Capstone
+This repository is dedicated to my Capstone Project as a part of the IBM Data Science Specialization.
+
