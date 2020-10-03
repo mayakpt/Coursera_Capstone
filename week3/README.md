@@ -1,4 +1,6 @@
-## Instructions
+## Week 3 - Capstone Project
+
+### Instructions
 In this week, you will continue working on your capstone project. Please remember by the end of this week, you will need to submit the following:
 
 1. A full report consisting of all of the following components:
