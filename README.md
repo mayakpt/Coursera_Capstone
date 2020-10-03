@@ -9,9 +9,9 @@ Week 1 - Introduction and Data Exploration
 * Peer Review: Setting up Github Account For The Project
 
 Week 2 - Building Machine learning Model For Accident Severity
-*Pre-processing Your Data
-*Building your Machine Learning Model
-*Peer Review: Capstone Project-Car Accident Severity 
+* Pre-processing Your Data
+* Building your Machine Learning Model
+* Peer Review: Capstone Project-Car Accident Severity 
 
 Week 3 - Capstone Project
-*Peer Review: Capstone Project-Car Accident Severity 
+* Peer Review: Capstone Project-Car Accident Severity 
